@@ -20,3 +20,7 @@ dockerized bitcore insight-api for dash - alpha version
 
     sudo docker start bitcore_insight
     sudo docker stop bitcore_insight
+
+# author
+
+    coingun
